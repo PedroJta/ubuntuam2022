@@ -16,7 +16,7 @@ public class Contador {
 				System.out.print(contador);
 				if(contador<numeroEscolhido) {
 					
-					System.out.println(" + ");
+					System.out.print(" + ");
 				}
 			total+=contador;
 					
